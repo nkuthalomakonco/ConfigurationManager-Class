@@ -1,0 +1,27 @@
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\application configuration.exe
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\application configuration.deps.json
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\application configuration.runtimeconfig.json
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\application configuration.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\application configuration.pdb
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.AssemblyInfoInputs.cache
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.AssemblyInfo.vb
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.vbproj.CoreCompileInputs.cache
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\refint\application configuration.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.pdb
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.genruntimeconfig.cache
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\ref\application configuration.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\application configuration.dll.config
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.vbproj.AssemblyReference.cache
+C:\Users\MAKONCO\Documents\Visual Studio 2022\30_10_23\application configuration\application configuration\obj\Debug\net6.0\application configuration.vbproj.CopyComplete

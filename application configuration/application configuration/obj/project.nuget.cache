@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8G22Efsa2sly4VxzU95ocqPmai8QA731mfg3yp7ZDkeqLCsJZW7fag/0VvQ+Miv7oFGdmQjL9UuiJOzwYntHJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAKONCO\\Documents\\Visual Studio 2022\\30_10_23\\application configuration\\application configuration\\application configuration.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAKONCO\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\MAKONCO\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\MAKONCO\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\MAKONCO\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\MAKONCO\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MAKONCO\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
